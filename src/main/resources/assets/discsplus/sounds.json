@@ -1,0 +1,47 @@
+{
+  "music_disc_anti": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "discsplus:anti",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_chop": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "discsplus:chop",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_range": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "discsplus:range",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_pillaged": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "discsplus:pillaged",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_tall": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "discsplus:tall",
+        "stream": true
+      }
+    ]
+  }
+}
