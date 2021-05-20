@@ -1,6 +1,6 @@
 {
   "music_disc_anti": {
-    "category": "record",
+    "category": "records",
     "sounds": [
       {
         "name": "discsplus:anti",
@@ -9,7 +9,7 @@
     ]
   },
   "music_disc_chop": {
-    "category": "record",
+    "category": "records",
     "sounds": [
       {
         "name": "discsplus:chop",
@@ -18,7 +18,7 @@
     ]
   },
   "music_disc_range": {
-    "category": "record",
+    "category": "records",
     "sounds": [
       {
         "name": "discsplus:range",
@@ -27,7 +27,7 @@
     ]
   },
   "music_disc_pillaged": {
-    "category": "record",
+    "category": "records",
     "sounds": [
       {
         "name": "discsplus:pillaged",
@@ -36,7 +36,7 @@
     ]
   },
   "music_disc_tall": {
-    "category": "record",
+    "category": "records",
     "sounds": [
       {
         "name": "discsplus:tall",
