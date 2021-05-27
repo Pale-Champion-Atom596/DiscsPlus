@@ -43,5 +43,41 @@
         "stream": true
       }
     ]
+  },
+  "music_disc_broken_sky": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "discsplus:broken_sky",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_shulk": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "discsplus:shulk",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_shock": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "discsplus:shock",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_free_the_end": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "discsplus:free_the_end",
+        "stream": true
+      }
+    ]
   }
 }
