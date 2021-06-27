@@ -14,7 +14,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/discsplus/icon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -29,7 +29,7 @@
   "depends": {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.17"
   },
   "suggests": {
     "another-mod": "*"
