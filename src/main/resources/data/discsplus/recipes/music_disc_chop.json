@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LAL",
+    "ISI",
+    "LNL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:dark_oak_log"
+    },
+    "A": {
+      "item": "minecraft:iron_axe"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "result": {
+    "item": "discsplus:music_disc_chop"
+  }
+}
