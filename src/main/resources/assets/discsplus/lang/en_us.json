@@ -16,5 +16,7 @@
   "item.discsplus.music_disc_shock": "Music Disc",
   "item.discsplus.music_disc_shock.desc": "maplemickey - Shock",
   "item.discsplus.music_disc_free_the_end": "Music Disc",
-  "item.discsplus.music_disc_free_the_end.desc": "thesafetypenguin - Free the End"
+  "item.discsplus.music_disc_free_the_end.desc": "thesafetypenguin - Free the End",
+  "advancements.discsplus.all_discs.title": "DiscsPlus",
+  "advancements.discsplus.all_discs.description": "Obtain all music discs from the DiscsPlus mod"
 }

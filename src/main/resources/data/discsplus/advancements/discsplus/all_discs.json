@@ -1,0 +1,142 @@
+{
+  "parent": "minecraft:nether/obtain_ancient_debris",
+  "display": {
+    "icon": {
+      "item": "discsplus:music_disc_broken_sky"
+    },
+    "title": {
+      "translate": "advancements.discsplus.all_discs.title"
+    },
+    "description": {
+      "translate": "advancements.discsplus.all_discs.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "anti": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_anti"
+          }
+        ]
+      }
+    },
+    "chop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_chop"
+          }
+        ]
+      }
+    },
+    "range": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_range"
+          }
+        ]
+      }
+    },
+    "pillaged": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_pillaged"
+          }
+        ]
+      }
+    },
+    "tall": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_tall"
+          }
+        ]
+      }
+    },
+    "broken_sky": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_broken_sky"
+          }
+        ]
+      }
+    },
+    "shulk": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_shulk"
+          }
+        ]
+      }
+    },
+    "shock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_shock"
+          }
+        ]
+      }
+    },
+    "free_the_end": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "discsplus:music_disc_free_the_end"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "anti"
+    ],
+    [
+      "chop"
+    ],
+    [
+      "range"
+    ],
+    [
+      "pillaged"
+    ],
+    [
+      "tall"
+    ],
+    [
+      "broken_sky"
+    ],
+    [
+      "shulk"
+    ],
+    [
+      "shock"
+    ],
+    [
+      "free_the_end"
+    ]
+  ]
+}
