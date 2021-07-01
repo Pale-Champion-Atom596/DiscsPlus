@@ -24,7 +24,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_anti"
+            "items": [
+              "discsplus:music_disc_anti"
+            ]
           }
         ]
       }
@@ -34,7 +36,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_chop"
+            "items": [
+              "discsplus:music_disc_chop"
+            ]
           }
         ]
       }
@@ -44,7 +48,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_range"
+            "items": [
+              "discsplus:music_disc_range"
+            ]
           }
         ]
       }
@@ -54,7 +60,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_pillaged"
+            "items": [
+              "discsplus:music_disc_pillaged"
+            ]
           }
         ]
       }
@@ -64,7 +72,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_tall"
+            "items": [
+              "discsplus:music_disc_tall"
+            ]
           }
         ]
       }
@@ -74,7 +84,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_broken_sky"
+            "items": [
+              "discsplus:music_disc_broken_sky"
+            ]
           }
         ]
       }
@@ -84,7 +96,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_shulk"
+            "items": [
+              "discsplus:music_disc_shulk"
+            ]
           }
         ]
       }
@@ -94,7 +108,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_shock"
+            "items": [
+              "discsplus:music_disc_shock"
+            ]
           }
         ]
       }
@@ -104,7 +120,9 @@
       "conditions": {
         "items": [
           {
-            "item": "discsplus:music_disc_free_the_end"
+            "items": [
+              "discsplus:music_disc_free_the_end"
+            ]
           }
         ]
       }
