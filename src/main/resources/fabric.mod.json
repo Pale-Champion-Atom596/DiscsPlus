@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "discsplus.mixins.json"
   ],
 
   "depends": {
