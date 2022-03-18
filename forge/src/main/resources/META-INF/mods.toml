@@ -1,15 +1,15 @@
 modLoader = "javafml"
 loaderVersion = "[40,)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "CC0-1.0"
 
 [[mods]]
-modId = "examplemod"
+modId = "discsplus"
 version = "${version}"
-displayName = "Example Mod"
-authors = "Me!"
+displayName = "DiscsPlus"
+authors = "Atom596"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+Adds new Fanmade Discs into the game
 '''
 #logoFile = ""
 

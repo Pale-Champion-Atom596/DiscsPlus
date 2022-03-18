@@ -6,7 +6,7 @@ public class DiscsPlus {
     public static final String MOD_ID = "discsplus";
     
     public static void init() {
-        MusicDiscPlus.initDiscs();
         MusicDiscPlus.DISCREGISTER.register();
+        MusicDiscPlus.initDiscs();
     }
 }

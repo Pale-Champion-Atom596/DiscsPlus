@@ -1,7 +1,6 @@
 package com.atom596.discsplus.modThings;
 
 import com.atom596.discsplus.DiscsPlus;
-import dev.architectury.registry.registries.DeferredRegister;
 import net.minecraft.core.Registry;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvent;
